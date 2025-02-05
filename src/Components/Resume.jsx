@@ -8,7 +8,7 @@ const Resume = () => {
       description: 'In combination of MCE(Mathematic-computer science-economics',
     },
     {
-      year: '2021 - PRESENT',
+      year: '2022 - PRESENT',
       title: 'Bachelor degrees',
       company: 'UR',
       description: 'Bachelor degree in computer science',
@@ -25,17 +25,18 @@ const Resume = () => {
       company: 'SheCanCode',
       description: 'Learning as a trainee for 4 months in an intensive program',
     },
-    {
-        year: '2024-Present',
-        title: 'Business Administration',
-        company: 'UoP',
-        description: 'Bachelor degree in Bussiness Administation at university of people',
-      },
+ 
       {
-        year: '2024-Present',
+        year: '2024',
         title: 'ALX AiCE - AI Career Essentials',
         company: 'ALX Rwanda',
         description: 'AI essential skills',
+      },
+      {
+        year: '2024',
+        title: 'Scrum Master I',
+        company: 'Scrum.org',
+        description: 'Training and exam about the scrum master using sprint.',
       },
   ];
 

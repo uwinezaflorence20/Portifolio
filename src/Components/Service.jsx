@@ -60,19 +60,17 @@ const Service = () => {
             </p>
           </a>
  
-
           <a
-            className="block rounded-xl border border-gray-800 p-12 shadow-xl transition  hover:border-green-400 hover:shadow-green-400 hover:bg-green-700"
-            href="#"
-          >
-            <GiArtificialIntelligence className="text-green-400 text-4xl" />
+  className="block rounded-xl border border-gray-800 p-12 shadow-xl transition hover:border-green-400 hover:shadow-green-400 hover:bg-green-700"
+  href="#"
+>
+  <h2 className="mt-4 text-xl font-bold text-white">Agile Project Management</h2>
 
-            <h2 className="mt-4 text-xl font-bold text-white">AI</h2>
+  <p className="mt-1 text-sm text-gray-300">
+    I provide expertise in Agile methodologies, helping companies and individuals implement Scrum and Agile Sprints effectively.
+  </p>
+</a>
 
-            <p className="mt-1 text-sm text-gray-300">
-              Iprovide some skills about aritificial intelligence to your company or to anyone who want to know more about AI.
-            </p>
-          </a>
 
 
 

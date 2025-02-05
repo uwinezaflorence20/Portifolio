@@ -9,6 +9,26 @@ const projects = [
     
   },
   {
+    title: 'Digital Suggestion Project',
+    imageSrc: 'digital.png', 
+    githubLink: 'https://digital-suggestion-box-project-34.onrender.com/',
+    
+  },
+  
+  {
+    title: 'Expenses tracker',
+    imageSrc: '/expense.png', 
+    githubLink: 'https://expenses3.vercel.app/',
+    
+  },
+  {
+    title: 'ArtConnect',
+    imageSrc: '/artconnect.png', 
+    githubLink: 'https://art-connect.onrender.com/',
+    
+  },
+  
+  {
     title: 'Movie App',
     imageSrc: '/p3.png', 
     githubLink: 'https://netflix-ubhc.onrender.com/',
